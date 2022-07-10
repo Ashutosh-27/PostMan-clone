@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Samantha",
+                "last": "Johnson"
+            },
+            "location": {
+                "street": {
+                    "number": 6054,
+                    "name": "Tennyson Street"
+                },
+                "city": "New Plymouth",
+                "state": "Auckland",
+                "country": "New Zealand",
+                "postcode": 92094,
+                "coordinates": {
+                    "latitude": "67.1872",
+                    "longitude": "72.0214"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "samantha.johnson@example.com",
+            "login": {
+                "uuid": "d5679d80-ee8e-4be6-80e0-e86730e79e08",
+                "username": "angrytiger589",
+                "password": "tinkerbe",
+                "salt": "6G5U5zab",
+                "md5": "177e2be7108c5b213479bb6452757c58",
+                "sha1": "1988af41f65ea9d9131308138ff3a89c5183f82b",
+                "sha256": "870ca301bffbe923b42470cbb358a578a1239084880a424aad8fc58242b781d8"
+            },
+            "dob": {
+                "date": "1967-10-23T21:43:41.554Z",
+                "age": 54
+            },
+            "registered": {
+                "date": "2010-03-04T02:02:16.999Z",
+                "age": 11
+            },
+            "phone": "(094)-690-5306",
+            "cell": "(845)-429-6505",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/20.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+            },
+            "nat": "NZ"
+        }
+    ],
+    "info": {
+        "seed": "903108da4af774ee",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
